@@ -1,4 +1,4 @@
-#rgbButtonIncDec
+# rgbButtonIncDec
 
 Here one button increases the light of the led and another button decreases it.
 
