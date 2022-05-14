@@ -17,8 +17,8 @@ The decrease button decreases the light in the reverse order until the led is co
 - 9 M-M cables
 
 # Circuit Connections
-![circuit picture](https://github.com/Windsmith/random-arduino-projects/tree/master/LEDProjects/rgbButtonIncDec/circuit.jpg)
+![circuit picture](circuit.jpg)
 
 # Project in Action
-![project in action](https://github.com/Windsmith/random-arduino-projects/tree/master/LEDProjects/rgbButtonIncDec/projectInAction.mp4)
+![project in action](projectInAction.mp4)
 
