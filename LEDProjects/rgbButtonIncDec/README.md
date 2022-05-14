@@ -20,5 +20,5 @@ The decrease button decreases the light in the reverse order until the led is co
 ![circuit picture](circuit.jpg)
 
 # Project in Action
-![project in action](projectInAction.mp4)
+https://user-images.githubusercontent.com/41722013/168414093-5a57ee0a-2938-496e-85e8-a609bae6d8b2.mp4
 
